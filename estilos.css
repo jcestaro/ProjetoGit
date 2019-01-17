@@ -14,3 +14,7 @@ ul {
 h1 {
 	font-size: 20px;
 }
+
+.visivel {
+	display: block;
+}
