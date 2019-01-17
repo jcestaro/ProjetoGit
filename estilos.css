@@ -4,4 +4,17 @@ body {
 
 #teste {
 	color: #FFF;
+	display: none;
+}
+
+ul {
+	text-align: center;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+.visivel {
+	display: block;
 }
